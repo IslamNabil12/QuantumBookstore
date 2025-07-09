@@ -40,7 +40,7 @@ Each book has:
 
 ##  Testing
 
-The class `QuantumBookstoreFullTest` demonstrates all system features:
+The class `inventoryfunction` demonstrates all system features:
 - Adding different types of books.
 - Removing books older than a defined threshold.
 - Purchasing both paper and electronic books.
